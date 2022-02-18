@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bullen-B.
 - 👀 I’m interested in automation in testing.
-- 🌱 I’m currently learning every day.
+- 🌱 I’m currently learning ... many things.
 - 💞️ I’m looking to collaborate on automation.
 
 <!---
